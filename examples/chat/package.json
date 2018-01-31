@@ -9,6 +9,7 @@
   "dependencies": {
     "chart.js": "^2.7.1",
     "express": "4.13.4",
+    "labella": "^1.1.4",
     "moment": "^2.20.1",
     "node-schedule": "^1.3.0"
   },
